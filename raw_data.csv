@@ -1,0 +1,16 @@
+id,name,age,department,salary,joining_date,email
+1,John Doe,29,Sales,50000,2021-05-10,john.doe@email.com
+2,  Jane Smith ,,HR,45000,10/06/2020,jane.smith@email.com
+3,Mike Johnson,30,IT,60000,2022-01-15,mike.j@email
+4,Emily Davis,34,Finance,,2021/07/20,emily.davis@email.com
+5,Chris Brown,28,Sales,52000,15-08-2021,chris.brown@email.com
+6,Sarah Wilson,,HR,48000,2020-11-30,sarah.wilson@email.com
+7,David Lee,42,IT,not_available,2019-03-25,david.lee@email.com
+8,Anna Kim,31,Finance,61000,2022-13-01,anna.kim@email.com
+9,John Doe,29,Sales,50000,2021-05-10,john.doe@email.com
+10,Mark Taylor,27,IT,58000,2021-09-31,mark.taylor@email.com
+11,Lisa White,33,HR,47000,,lisa.white@email.com
+12,Tom Clark,45,Finance,65000,2020-02-29,tom.clark@email.com
+13,Nina Patel,29,Sales,53000,2021-04-12,nina.patel@email.com
+14,Raj Mehta,,IT,62000,2021-06-18,raj.mehta@email.com
+15,Amit Sharma,35,Finance,67000,2021-07-25,amit.sharma@email
